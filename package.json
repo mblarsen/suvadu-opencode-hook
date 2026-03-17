@@ -1,0 +1,14 @@
+{
+  "name": "suvadu-opencode-hook",
+  "version": "1.0.0",
+  "description": "OpenCode plugin that logs OpenCode `bash` tool executions into [Suvadu](https://github.com/AppachiTech/suvadu), so AI-run shell commands show up in your command history and reports.",
+  "main": "suvadu-shell-hook.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "@opencode-ai/plugin": "^1.2.27"
+  }
+}
