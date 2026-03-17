@@ -1,3 +1,5 @@
+> Depreacted: suvadu supports opencode natively now https://github.com/AppachiTech/suvadu/issues/8
+
 # suvadu-opencode-hook
 
 OpenCode plugin that logs OpenCode `bash` tool executions into [Suvadu](https://github.com/AppachiTech/suvadu), so AI-run shell commands show up in your command history and reports.
